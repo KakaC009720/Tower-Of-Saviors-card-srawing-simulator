@@ -1,4 +1,4 @@
-# Tower-Of-Saviors-card-srawing-simulator
+# Tower-Of-Saviors-card-drawing-simulator
 card drawing simulator made by matlab, matlab mobiledev(create mobiledev object to acquire data from iOS sensors)
 
 m = mobiledev creates a mobiledev object m that reads sensor data from any device running MATLAB® Mobile™ with the same MathWorks® account. 
