@@ -8,5 +8,7 @@ The object can read data from five types of sensors: acceleration, angular veloc
 Use this syntax when you have only one device set up for sensing.
 
 ．connect mobile phone to matlab
+
 ．run the program
+
 ．follow the red arrows on the screen, flip mobile phone to make your choice
